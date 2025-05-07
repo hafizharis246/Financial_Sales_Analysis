@@ -51,7 +51,7 @@ Financial Sales Analysis Project/
 - Drill-down capabilities for detailed analysis
 
 ## Dashboard
-![Dashboard](Dashboard%20Images/Dashboard%20Image.png)
+![Dashboard](Dashboard%20Image/Dashboard%20Image.png)
 
 
 ## Notes
